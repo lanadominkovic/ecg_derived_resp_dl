@@ -1,0 +1,11 @@
+The BIDMC dataset contains modified versions of PhysioNet files. The modified files are distributed under the terms for distribution of modified data files listed at: https://www.physionet.org/copying.shtml#data .
+
+ The following modifications have been made:
+
+ - Waveform, numerics and fixed data (such as age) were downloaded from the PhysioNet MIMIC II matched waveform database. 8-min segments of data were extracted for each of the 53 ICU stays included in the BIDMC dataset.
+
+ - The data were imported into Matlab. Two annotators manually annotated breaths using the impedance signal. These manual breath annotations were included in the dataset.
+
+ - The dataset was then exported from Matlab in three formats: Matlab (r) format, in a manner which is a compatible with the RRest Toolbox of respiratory rate algorithms; (ii) CSV format; (iii) WFDB format.
+
+ Further details of the dataset are provided in the accompanying ReadMe file.

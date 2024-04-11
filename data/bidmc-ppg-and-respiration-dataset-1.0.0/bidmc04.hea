@@ -1,0 +1,8 @@
+bidmc04 6 125 60001
+bidmc04.dat 16 80882.1109(1584)/pm 0 0 -22534 828 0 RESP, 
+bidmc04.dat 16 67108.3904(-34341)/NU 0 0 10792 7751 0 PLETH, 
+bidmc04.dat 16 54469.8182(-5638)/mV 0 0 -21702 29522 0 II, 
+bidmc04.dat 16 49661.7237(-41920)/mV 0 0 -6086 5110 0 V, 
+bidmc04.dat 16 57132.2053(-49907)/mV 0 0 8457 13214 0 AVR, 
+bidmc04.dat 16 848.3468(-55828)/mmHg 0 0 -17835 18808 0 ABP, 
+#<age>: 78 <sex>: M <location>: micu <source>: https://physionet.org/physiobank/database/mimic2wdb/matched/s01840/ <data segment>: 3454-10-24-18-46<modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

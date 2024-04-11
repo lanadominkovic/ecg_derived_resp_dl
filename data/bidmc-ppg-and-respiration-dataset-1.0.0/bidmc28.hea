@@ -1,0 +1,8 @@
+bidmc28 6 125 60001
+bidmc28.dat 16 65534(-32767)/pm 0 0 -32767 -2275 0 RESP, 
+bidmc28.dat 16 78502.673(-42436)/NU 0 0 6523 -10621 0 PLETH, 
+bidmc28.dat 16 33287.1111(-17164)/mV 0 0 31726 27874 0 II, 
+bidmc28.dat 16 43181.3181(-11092)/mV 0 0 -8552 -21263 0 V, 
+bidmc28.dat 16 41018.8359(-12338)/mV 0 0 -20750 24786 0 AVR, 
+bidmc28.dat 16 2623.36(-27567)/mmHg 0 0 19967 14314 0 CVP, 
+#<age>: 90+ <sex>: M <location>: micu <source>: https://physionet.org/physiobank/database/mimic2wdb/matched/s15646/ <data segment>: 3164-11-16-15-38<modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

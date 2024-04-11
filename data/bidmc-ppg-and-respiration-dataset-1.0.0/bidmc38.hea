@@ -1,0 +1,7 @@
+bidmc38 5 125 60001
+bidmc38.dat 16 65534(-32767)/pm 0 0 22902 23908 0 RESP, 
+bidmc38.dat 16 72555.4997(-32767)/NU 0 0 567 -14541 0 PLETH, 
+bidmc38.dat 16 65152.2482(-64961)/mV 0 0 -16097 18796 0 I, 
+bidmc38.dat 16 86140.052(-21451)/mV 0 0 9458 30333 0 MCL, 
+bidmc38.dat 16 49368.3013(-7986)/mV 0 0 -2856 24763 0 II, 
+#<age>: 88 <sex>: F <location>: ccu <source>: https://physionet.org/physiobank/database/mimic2wdb/matched/s25323/ <data segment>: 2591-11-25-02-37<modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

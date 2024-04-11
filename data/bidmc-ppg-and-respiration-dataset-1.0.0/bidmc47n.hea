@@ -1,0 +1,6 @@
+bidmc47n 4 1 481
+bidmc47n.dat 16 8191.75(-704491)/bpm 0 0 -8192 24561 0 HR, 
+bidmc47n.dat 16 9362(-791089)/bpm 0 0 -14043 -32593 0 PULSE, 
+bidmc47n.dat 16 21844.6667(-491505)/pm 0 0 -10922 -10665 0 RESP, 
+bidmc47n.dat 16 16383.5(-1605583)/% 0 0 0 -16371 0 SpO2, 
+#<age>: 48 <sex>: M <location>: micu <source>: http://physionet.org/physiobank/database/mimic2wdb/matched/s30026/3043341n.dat <modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

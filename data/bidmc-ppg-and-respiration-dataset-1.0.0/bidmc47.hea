@@ -1,0 +1,8 @@
+bidmc47 6 125 60001
+bidmc47.dat 16 35070.0091(-6416)/pm 0 0 -15821 4043 0 RESP, 
+bidmc47.dat 16 764.0645(-72923)/mmHg 0 0 -16570 30230 0 ABP, 
+bidmc47.dat 16 19143.7128(-43845)/NU 0 0 -2189 22062 0 PLETH, 
+bidmc47.dat 16 32775.0017(-16396)/mV 0 0 5065 -30993 0 II, 
+bidmc47.dat 16 32775.0017(-16396)/mV 0 0 -1817 25214 0 III, 
+bidmc47.dat 16 46931.2439(-37676)/mV 0 0 -6228 -3290 0 V, 
+#<age>: 48 <sex>: M <location>: micu <source>: https://physionet.org/physiobank/database/mimic2wdb/matched/s30026/ <data segment>: 3337-03-19-14-47<modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

@@ -1,0 +1,8 @@
+bidmc09 6 125 60001
+bidmc09.dat 16 211486.6959(-77214)/pm 0 0 -14781 -9632 0 RESP, 
+bidmc09.dat 16 139089.7953(-71652)/NU 0 0 -15635 32746 0 PLETH, 
+bidmc09.dat 16 89364.5459(-28562)/mV 0 0 -25583 15721 0 I, 
+bidmc09.dat 16 130051.9664(-61470)/mV 0 0 24893 16881 0 V, 
+bidmc09.dat 16 113947.7693(-73743)/mV 0 0 -19014 -9645 0 II, 
+bidmc09.dat 16 564.1363(-67851)/mmHg 0 0 -28133 18559 0 ABP, 
+#<age>: 64 <sex>: F <location>: micu <source>: https://physionet.org/physiobank/database/mimic2wdb/matched/s03386/ <data segment>: 2577-08-07-20-40<modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

@@ -1,0 +1,7 @@
+bidmc01 5 125 60001
+bidmc01.dat 16 65534(-32767)/pm 0 0 -9577 5854 0 RESP, 
+bidmc01.dat 16 138229.4494(-63710)/NU 0 0 -3446 29272 0 PLETH, 
+bidmc01.dat 16 32670.9091(-16367)/mV 0 0 801 -17810 0 V, 
+bidmc01.dat 16 42414.137(-11643)/mV 0 0 1248 -20589 0 AVR, 
+bidmc01.dat 16 32670.9091(-16367)/mV 0 0 7335 23277 0 II, 
+#<age>: 88 <sex>: M <location>: micu <source>: https://physionet.org/physiobank/database/mimic2wdb/matched/s01182/ <data segment>: 2688-03-25-23-14<modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

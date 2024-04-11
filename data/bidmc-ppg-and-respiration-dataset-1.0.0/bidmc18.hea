@@ -1,0 +1,7 @@
+bidmc18 5 125 60001
+bidmc18.dat 16 106923.894(-53985)/NU 0 0 -11654 29824 0 PLETH, 
+bidmc18.dat 16 82472.0181(-7158)/pm 0 0 -3932 -29676 0 RESP, 
+bidmc18.dat 16 58659.8042(-54535)/mV 0 0 -12030 27121 0 II, 
+bidmc18.dat 16 117684.2969(-49151)/mV 0 0 11999 14675 0 V, 
+bidmc18.dat 16 75106.382(-957)/mV 0 0 13181 16297 0 AVR, 
+#<age>: NaN <sex>: ? <location>: micu <source>: https://physionet.org/physiobank/database/mimic2wdb/matched/s09483/ <data segment>: 3089-08-26-21-25<modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

@@ -1,0 +1,8 @@
+bidmc41 6 125 60001
+bidmc41.dat 16 31908.8167(-15603)/pm 0 0 -20284 30391 0 RESP, 
+bidmc41.dat 16 78872.0965(-32767)/NU 0 0 5782 11278 0 PLETH, 
+bidmc41.dat 16 50838.497(-30980)/mV 0 0 -7547 14038 0 I, 
+bidmc41.dat 16 33025.0079(-16771)/mV 0 0 -25672 -4160 0 II, 
+bidmc41.dat 16 32799.0302(-16432)/mV 0 0 15534 6081 0 V, 
+bidmc41.dat 16 327.563(-27898)/mmHg 0 0 -13741 32486 0 ABP, 
+#<age>: 73 <sex>: F <location>: ccu <source>: https://physionet.org/physiobank/database/mimic2wdb/matched/s26868/ <data segment>: 2926-03-22-14-16<modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

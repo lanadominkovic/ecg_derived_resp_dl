@@ -1,0 +1,7 @@
+bidmc49 5 125 60001
+bidmc49.dat 16 65534(-32767)/pm 0 0 10602 24513 0 RESP, 
+bidmc49.dat 16 65534(-32767)/NU 0 0 -12844 -12726 0 PLETH, 
+bidmc49.dat 16 63180.227(-23847)/mV 0 0 1053 5151 0 II, 
+bidmc49.dat 16 32799.0302(-16432)/mV 0 0 9961 -26057 0 MCL, 
+bidmc49.dat 16 91177.7391(-51466)/mV 0 0 2315 -21133 0 AVR, 
+#<age>: 77 <sex>: M <location>: micu <source>: https://physionet.org/physiobank/database/mimic2wdb/matched/s31106/ <data segment>: 3080-07-14-23-40<modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

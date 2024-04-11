@@ -1,0 +1,7 @@
+bidmc51 5 125 60001
+bidmc51.dat 16 51644.3274(-11049)/pm 0 0 16857 -29583 0 RESP, 
+bidmc51.dat 16 44797.6076(-22968)/mV 0 0 -28568 -18726 0 II, 
+bidmc51.dat 16 53390.3195(-11306)/mV 0 0 28789 15650 0 V, 
+bidmc51.dat 16 69757.6046(-38353)/mV 0 0 30042 -21955 0 AVR, 
+bidmc51.dat 16 109010.2147(-57169)/NU 0 0 7726 8093 0 PLETH, 
+#<age>: 78 <sex>: F <location>: ccu <source>: https://physionet.org/physiobank/database/mimic2wdb/matched/s31400/ <data segment>: 2964-04-05-11-46<modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

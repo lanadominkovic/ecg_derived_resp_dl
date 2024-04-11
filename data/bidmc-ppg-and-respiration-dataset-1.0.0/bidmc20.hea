@@ -1,0 +1,7 @@
+bidmc20 5 125 60001
+bidmc20.dat 16 65534(-32767)/pm 0 0 -13357 2558 0 RESP, 
+bidmc20.dat 16 65534(-32767)/NU 0 0 -7783 -802 0 PLETH, 
+bidmc20.dat 16 78826.2744(-39413)/mV 0 0 -7573 -14667 0 II, 
+bidmc20.dat 16 104854.4(-43826)/mV 0 0 19660 7474 0 V, 
+bidmc20.dat 16 115648.2346(-58618)/mV 0 0 4422 29634 0 AVR, 
+#<age>: 44 <sex>: F <location>: micu <source>: https://physionet.org/physiobank/database/mimic2wdb/matched/s11342/ <data segment>: 2777-07-19-19-33<modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

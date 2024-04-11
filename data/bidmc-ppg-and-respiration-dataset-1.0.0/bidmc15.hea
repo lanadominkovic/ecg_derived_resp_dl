@@ -1,0 +1,7 @@
+bidmc15 5 125 60001
+bidmc15.dat 16 26200.7878(-13100)/pm 0 0 -19506 8500 0 RESP, 
+bidmc15.dat 16 73996.9999(-32767)/NU 0 0 -12875 -23808 0 PLETH, 
+bidmc15.dat 16 42576.2292(-19076)/mV 0 0 2880 7561 0 I, 
+bidmc15.dat 16 48934.6119(-28545)/mV 0 0 336 21276 0 MCL, 
+bidmc15.dat 16 39061.0104(-13313)/mV 0 0 12855 -830 0 II, 
+#<age>: 51 <sex>: M <location>: ccu <source>: https://physionet.org/physiobank/database/mimic2wdb/matched/s08452/ <data segment>: 2862-12-24-16-10<modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

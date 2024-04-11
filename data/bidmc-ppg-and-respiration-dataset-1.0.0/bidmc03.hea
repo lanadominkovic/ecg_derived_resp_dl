@@ -1,0 +1,8 @@
+bidmc03 6 125 60001
+bidmc03.dat 16 65534(-32767)/pm 0 0 -19250 -11351 0 RESP, 
+bidmc03.dat 16 91711.7407(-45587)/NU 0 0 -28285 -26119 0 PLETH, 
+bidmc03.dat 16 52017.2124(-26041)/mV 0 0 -1826 -13192 0 II, 
+bidmc03.dat 16 76108.8047(-43416)/mV 0 0 -3053 32422 0 V, 
+bidmc03.dat 16 61804.4226(-37105)/mV 0 0 -9932 13250 0 AVR, 
+bidmc03.dat 16 1637.8183(-27898)/mmHg 0 0 32767 23857 0 CVP, 
+#<age>: 46 <sex>: F <location>: micu <source>: https://physionet.org/physiobank/database/mimic2wdb/matched/s01795/ <data segment>: 2503-07-03-17-43<modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

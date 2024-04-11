@@ -1,0 +1,6 @@
+bidmc53n 4 1 481
+bidmc53n.dat 16 2621.36(-245097)/bpm 0 0 -22281 -9077 0 HR, 
+bidmc53n.dat 16 2114(-195545)/bpm 0 0 13741 13763 0 PULSE, 
+bidmc53n.dat 16 5041.0769(-118465)/pm 0 0 -7561 -7178 0 RESP, 
+bidmc53n.dat 16 327.67(-32767)/% 0 0 0 0 0 SpO2, 
+#<age>: 81 <sex>: M <location>: sicu <source>: http://physionet.org/physiobank/database/mimic2wdb/matched/s32628/3173428n.dat <modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

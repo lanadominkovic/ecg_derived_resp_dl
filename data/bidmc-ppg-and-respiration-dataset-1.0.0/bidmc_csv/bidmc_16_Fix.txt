@@ -1,0 +1,15 @@
+bidmc_16
+Signals: RESP; PLETH; II; V; AVR
+Signals sampling frequency: 125 Hz
+Numerics: HR; PULSE; RESP; SpO2
+Numerics sampling frequency: 1 Hz
+Age: 56
+Gender: M
+Location: micu
+MIMIC II matched wdb ID: s08915
+MIMIC II data segment: 3391-06-02-00-27
+Original overall header file: http://physionet.org/physiobank/database/mimic2wdb/matched/s08915/s08915-3391-06-02-00-27.hea
+Original signals header file: http://physionet.org/physiobank/database/mimic2wdb/matched/s08915/3913246_0008.hea
+Original signals data file: http://physionet.org/physiobank/database/mimic2wdb/matched/s08915/3913246_0008.dat
+Original numerics header file: http://physionet.org/physiobank/database/mimic2wdb/matched/s08915/s08915-3391-06-02-00-27n.hea
+Original numerics data file: http://physionet.org/physiobank/database/mimic2wdb/matched/s08915/3913246n.dat

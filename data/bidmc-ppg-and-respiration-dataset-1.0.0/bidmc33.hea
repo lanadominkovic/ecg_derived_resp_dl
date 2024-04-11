@@ -1,0 +1,7 @@
+bidmc33 5 125 60001
+bidmc33.dat 16 65534(-32767)/pm 0 0 -4196 -1550 0 RESP, 
+bidmc33.dat 16 32670.9091(-16367)/mV 0 0 2275 -17560 0 II, 
+bidmc33.dat 16 50229.6527(-42577)/mV 0 0 4611 12404 0 V, 
+bidmc33.dat 16 57328.1992(-35577)/mV 0 0 6014 5987 0 AVR, 
+bidmc33.dat 16 69617.1155(-36850)/NU 0 0 -15209 -26147 0 PLETH, 
+#<age>: 76 <sex>: F <location>: micu <source>: https://physionet.org/physiobank/database/mimic2wdb/matched/s19981/ <data segment>: 3073-11-13-03-26<modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

@@ -1,0 +1,6 @@
+bidmc20n 4 1 481
+bidmc20n.dat 16 16383.5(-1441748)/bpm 0 0 16384 -16386 0 HR, 
+bidmc20n.dat 16 16383.5(-1425365)/bpm 0 0 -1 32317 0 PULSE, 
+bidmc20n.dat 16 21844.6667(-338592)/pm 0 0 10923 11188 0 RESP, 
+bidmc20n.dat 16 65534(-6520633)/% 0 0 32767 32457 0 SpO2, 
+#<age>: 44 <sex>: F <location>: micu <source>: http://physionet.org/physiobank/database/mimic2wdb/matched/s11342/3063329n.dat <modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

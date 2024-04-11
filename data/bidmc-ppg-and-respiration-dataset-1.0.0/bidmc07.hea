@@ -1,0 +1,9 @@
+bidmc07 7 125 60001
+bidmc07.dat 16 65534(-32767)/pm 0 0 -27002 10884 0 RESP, 
+bidmc07.dat 16 116796.6584(-57314)/NU 0 0 -21921 -31630 0 PLETH, 
+bidmc07.dat 16 83016.5488(-60167)/mV 0 0 -22850 6616 0 II, 
+bidmc07.dat 16 152515.4909(-80726)/mV 0 0 13703 3877 0 V, 
+bidmc07.dat 16 96596.3573(-45647)/mV 0 0 24054 -1704 0 AVR, 
+bidmc07.dat 16 3247.07(-54739)/mmHg 0 0 -19940 -4199 0 CVP, 
+bidmc07.dat 16 938.647(-86185)/mmHg 0 0 8720 28102 0 ART, 
+#<age>: 64 <sex>: F <location>: micu <source>: https://physionet.org/physiobank/database/mimic2wdb/matched/s03386/ <data segment>: 2577-08-02-01-41<modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.

@@ -1,0 +1,9 @@
+bidmc24 7 125 60001
+bidmc24.dat 16 827.3999(-75324)/mmHg 0 0 -11570 5393 0 ABP, 
+bidmc24.dat 16 65598.1235(-32831)/pm 0 0 -23277 15305 0 RESP, 
+bidmc24.dat 16 143250.6013(-73936)/NU 0 0 18204 18862 0 PLETH, 
+bidmc24.dat 16 221774.0011(-89187)/mV 0 0 13888 12701 0 V, 
+bidmc24.dat 16 91496.9237(-58819)/mV 0 0 -1611 21418 0 II, 
+bidmc24.dat 16 129546.9017(-58626)/mV 0 0 -6782 -13119 0 AVR, 
+bidmc24.dat 16 3039.8301(-69087)/mmHg 0 0 -18950 -24638 0 CVP, 
+#<age>: 77 <sex>: M <location>: micu <source>: https://physionet.org/physiobank/database/mimic2wdb/matched/s12531/ <data segment>: 3144-03-08-13-21<modifications>: this is not a verbatim copy of an original file. Please see the accompanying LICENSE.txt file for further details.
