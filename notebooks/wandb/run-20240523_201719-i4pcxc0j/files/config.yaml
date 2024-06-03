@@ -1,0 +1,61 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    python_version: 3.9.19
+    cli_version: 0.17.0
+    framework: keras
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    start_time: 1716488239
+    t:
+      1:
+      - 2
+      - 3
+      - 5
+      - 53
+      - 55
+      2:
+      - 2
+      - 3
+      - 5
+      - 53
+      - 55
+      3:
+      - 2
+      - 3
+      - 8
+      - 23
+      - 37
+      - 61
+      - 62
+      4: 3.9.19
+      5: 0.17.0
+      8:
+      - 1
+      - 5
+      10:
+      - 9
+      13: darwin-arm64
+batch_size:
+  desc: null
+  value: 256
+dropout:
+  desc: null
+  value: 0.3503380994208545
+input_size:
+  desc: null
+  value: 1024
+kernel_size:
+  desc: null
+  value: 27
+learning_rate:
+  desc: null
+  value: 0.00945660087757986
+reg:
+  desc: null
+  value: 0.0030077907064072536
+start_filters:
+  desc: null
+  value: 8

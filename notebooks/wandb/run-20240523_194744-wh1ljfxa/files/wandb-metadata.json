@@ -1,0 +1,44 @@
+{
+    "os": "macOS-14.5-arm64-i386-64bit",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-05-23T17:47:44.709785",
+    "startedAt": "2024-05-23T17:47:44.105710",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "ecg_derived_resp_dl/notebooks/Results_BIDMC.ipynb",
+    "codePathLocal": null,
+    "root": "/Users/lanacaldarevic/workspace/phd/ecg_derived_resp_dl",
+    "git": {
+        "remote": "https://github.com/lanadominkovic/ecg_derived_resp_dl.git",
+        "commit": "1e48949e3be573015f24ec079efe2ad35c872b69"
+    },
+    "email": "lana.caldarevic1@gmail.com",
+    "host": "Lanas-iMac.fritz.box",
+    "username": "lanacaldarevic",
+    "executable": "/Users/lanacaldarevic/miniforge3/envs/tf_m1/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3204,
+        "min": 600,
+        "max": 3204
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3204,
+            "min": 600,
+            "max": 3204
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 228.27386474609375,
+            "used": 193.8772315979004
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

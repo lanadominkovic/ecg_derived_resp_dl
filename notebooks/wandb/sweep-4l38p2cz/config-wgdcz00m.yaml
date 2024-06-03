@@ -1,0 +1,16 @@
+wandb_version: 1
+
+batch_size:
+  value: 512
+dropout:
+  value: 0.22817407502712797
+input_size:
+  value: 1024
+kernel_size:
+  value: 27
+learning_rate:
+  value: 0.009433294603388875
+reg:
+  value: 0.007333615043828872
+start_filters:
+  value: 8

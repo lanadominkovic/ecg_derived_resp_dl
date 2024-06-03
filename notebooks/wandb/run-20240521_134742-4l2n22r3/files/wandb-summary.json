@@ -1,0 +1,1 @@
+{"Predictions vs. Ground Truth": {"_type": "images/separated", "width": 1200, "height": 800, "format": "png", "count": 1, "filenames": ["media/images/Predictions vs. Ground Truth_0_f958d001c2135635864c.png"], "captions": ["Predictions vs. Ground Truth"]}, "_timestamp": 1716292208.9837718, "_runtime": 136.6227457523346, "_step": 20, "_wandb": {"runtime": 204}}
